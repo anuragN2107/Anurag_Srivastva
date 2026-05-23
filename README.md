@@ -3,15 +3,6 @@
 
 A passionate data professional focused on building intelligent AI systems, predictive modeling, uncovering data insights, and designing advanced business intelligence architectures. I specialize in translating messy, complex data structures into clean, visually stunning business stories that drive corporate strategy.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type/waving&color=auto&height=220&section=header&text=Anurag%20👋&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" alt="Header Banner" />
-</p>
-
-### 🚀 Data Science, Machine Learning & AI Systems Architect
-
-```spaces
-[LinkedIn](https://linkedin.com/in/anurag-srivastva-82888299)  •  [Email](mailto:anuragsrivastva20@gmail.com)  •  [Portfolio Hub](https://YOUR_PORTFOLIO_LINK.com)  •  [Technical Blog](https://YOUR_BLOG.com) • [Github](https://github.com/anuragN2107)
-
 <p align="left">
   <a href="(https://)linkedin.com/in/anurag-srivastva-82888299"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/anuragN2107"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -88,3 +79,14 @@ A passionate data professional focused on building intelligent AI systems, predi
 ## 🔄 Latest GitHub Activity
 *(Automatically updated every 12 hours via GitHub Actions)*
 <!-- END_SECTION:activity -->
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type/waving&color=auto&height=220&section=header&text=Anurag%20👋&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" alt="Header Banner" />
+</p>
+
+### 🚀 Data Science, Machine Learning & AI Systems Architect
+
+```spaces
+[LinkedIn](https://linkedin.com/in/anurag-srivastva-82888299)  •  [Email](mailto:anuragsrivastva20@gmail.com)  •  [Portfolio Hub](https://YOUR_PORTFOLIO_LINK.com)  •  [Technical Blog](https://YOUR_BLOG.com) • [Github](https://github.com/anuragN2107)
+
