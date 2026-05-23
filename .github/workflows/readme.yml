@@ -1,0 +1,28 @@
+name: Update README Dynamic Components
+
+on:
+  schedule:
+    # Triggers every 12 hours automatically
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows you to manually click "Run workflow" in the Actions tab
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile Readme Components
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Deploy GitHub Activity Feed
+        uses: jamesgeorge007/github-activity-readme@v0.4.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: automatically update github activity feed [skip ci]"
+          MAX_ACTIONS: 5
