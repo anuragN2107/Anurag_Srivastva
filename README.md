@@ -1,12 +1,168 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Anurag%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:6C63FF&height=220&section=header&text=Hi%20There,%20I'm%20Anurag%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+%26+Machine+Learning+Enthusiast;Predictive+Modeling+%7C+AI+Applications;Power+BI+%26+SQL+Analytics+Specialist;Always+Learning%2C+Always+Building!&font=Fira%20Code&center=true&width=600&height=45&color=F75C7E&vCenter=true&size=22"/>
+<a href="https://github.com/anuragN2107">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+ML+%26+Gen+AI+Engineer;Agentic+AI+%7C+LLMs+%7C+Predictive+Modeling;Power+BI+%2B+Tableau+%7C+SQL+Analytics;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=anuragN2107&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/anuragN2107?label=Followers&style=for-the-badge&color=F75C7E" alt="Followers"/>
 
 </div>
 
 <br>
+
+## 📑 Index
+
+- [🚀 About Me](#-about-me)
+- [🛠️ Tech Stack & Tools](#️-tech-stack--tools)
+- [📌 Featured Projects](#-featured-projects)
+- [📊 GitHub Stats](#-github-stats)
+- [🔥 Daily Activity & Streak](#-daily-activity--streak)
+- [🐍 Contribution Snake](#-contribution-snake)
+- [🏆 Trophies](#-trophies)
+- [🤝 Connect With Me](#-connect-with-me)
+
+<br>
+
+## 🚀 About Me
+
+```yaml
+name: Anurag Srivastva
+role: Data Science & Machine Learning Professional
+focus:
+  - Predictive Modeling & Statistical Analysis
+  - Generative AI & Agentic AI Systems
+  - Business Intelligence (Power BI / Tableau)
+  - Enterprise SQL Data Warehousing
+location: Buxar, Bihar, India
+currently_exploring: LLM Orchestration, RAG Pipelines, AI Agents
+fun_fact: I love turning raw data into decisions that matter!
+```
+
+<br>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+**Machine Learning & Deep Learning**
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+**Generative AI & Agentic AI**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-6C63FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-F75C7E?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0A66C2?style=for-the-badge&logoColor=white"/>
+
+**Data Visualization & BI**
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+**Databases, Tools & Platforms**
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</div>
+
+<br>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/anuragN2107/Clinical-Flow-Data-Warehouse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragN2107&repo=Clinical-Flow-Data-Warehouse&theme=radical&hide_border=true&cache_seconds=1800" alt="Clinical Flow Data Warehouse"/>
+</a>
+<a href="https://github.com/anuragN2107/Youtube-Engagement-PowerBi-Capstone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragN2107&repo=Youtube-Engagement-PowerBi-Capstone&theme=radical&hide_border=true&cache_seconds=1800" alt="Youtube Engagement PowerBI Capstone"/>
+</a>
+
+</div>
+
+| Project | Description | Tech |
+|---|---|---|
+| 🏥 [Clinical Flow Data Warehouse](https://github.com/anuragN2107/Clinical-Flow-Data-Warehouse) | Enterprise-grade MS SQL Server relational database tracking hospital resource utilization, patient flow analytics, and data optimization pipelines | `T-SQL` `SQL Server` |
+| 📺 [YouTube Engagement Power BI Capstone](https://github.com/anuragN2107/Youtube-Engagement-PowerBi-Capstone) | Advanced Power BI dashboard analyzing global YouTube creator engagement, video metrics, and audience distributions | `Power BI` `DAX` |
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anuragN2107&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragN2107&layout=compact&theme=radical&hide_border=true&langs_count=8" width="42%" alt="Top Languages"/>
+
+</div>
+
+<br>
+
+## 🔥 Daily Activity & Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragN2107&theme=radical&hide_border=true" width="49%" alt="Streak Stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragN2107&theme=react-dark&hide_border=true&area=true" width="98%" alt="Activity Graph"/>
+
+</div>
+
+> 📅 The activity graph above updates automatically and shows my daily commit history / contribution tracing on GitHub.
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/anuragN2107/anuragN2107/output/github-contribution-grid-snake.svg" width="98%" alt="Snake animation"/>
+</div>
+
+> 💡 To activate this snake animation, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo — it auto-generates and updates this SVG daily from your contribution graph. Until it's set up, this image may not display.
+
+<br>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anuragN2107&theme=radical&no-frame=true&row=1&column=6" alt="Trophies"/>
+</div>
+
+<br>
+
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -18,100 +174,8 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Anurag2107)
 [![Codewars](https://img.shields.io/badge/Codewars-Train-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/AnuragN2107)
 
-</div>
-
-<br>
-
-## 🚀 About Me
-
-- 🔭 I specialize in **Data Science, Machine Learning & Predictive Modeling**
-- 📊 Skilled in building **AI Applications** and advanced **Power BI** dashboards
-- 🏥 Currently exploring enterprise-grade **data warehousing** and analytics pipelines
-- 📍 Based in Buxar, Bihar, India
-- ⚡ Fun fact: I love turning raw data into decisions that matter!
-
-<br>
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Data Science & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-
-### Analytics & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Databases & Tools
-![MS SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+*Thanks for stopping by — let's build something intelligent together!* ✨
 
 </div>
 
-<br>
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/anuragN2107/Clinical-Flow-Data-Warehouse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragN2107&repo=Clinical-Flow-Data-Warehouse&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/anuragN2107/Youtube-Engagement-PowerBi-Capstone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragN2107&repo=Youtube-Engagement-PowerBi-Capstone&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anuragN2107&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragN2107&theme=radical&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragN2107&layout=compact&theme=radical&hide_border=true" width="49%"/>
-
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anuragN2107&theme=radical&no-frame=true&row=1&column=6"/>
-</div>
-
-<br>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-Feel free to reach out for collaborations, data science discussions, or just to say hi! 🚀
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-srivastva-82888299)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anuragsrivastva20@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F75C7E&height=120&section=footer" width="100%"/>
