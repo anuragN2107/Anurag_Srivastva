@@ -1,16 +1,19 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,50:8E54E9,100:6C63FF&height=230&section=header&text=Hi%20There,%20I'm%20Anurag%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20%26%20Gen%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,50:8E54E9,100:6C63FF&height=230&section=header&text=Anurag%20Srivastva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%26%20Generative%20AI%20Engineer&descAlignY=55&descSize=17" width="100%"/>
+
+### 👋 Welcome to my profile — glad to have you here!
 
 <a href="https://github.com/anuragN2107">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+ML+%26+Gen+AI+Engineer;Agentic+AI+%7C+LLMs+%7C+RAG+Pipelines;Predictive+Modeling+%7C+Time-Series+Forecasting;Power+BI+%2B+Tableau+%7C+Advanced+SQL+Analytics;Turning+Raw+Data+into+Real+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+ML+%26+Gen+AI+Engineer;Agentic+AI+%7C+LLMs+%7C+RAG+Pipelines;Predictive+Modeling+%7C+Time-Series+Forecasting;Power+BI+%2B+Tableau+%7C+Advanced+SQL+Analytics;Turning+Data+into+Actionable+Business+Insights" alt="Typing SVG" />
 </a>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=anuragN2107&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/anuragN2107?label=Followers&style=for-the-badge&color=F75C7E" alt="Followers"/>
+<img src="https://img.shields.io/badge/Location-Buxar%2C%20Bihar%2C%20India-2EC866?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br><br>
 
@@ -51,12 +54,12 @@ fun_fact: I love turning raw data into decisions that matter! 📈
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/anuragN2107/anuragN2107/output/github-contribution-grid-snake.svg">
 
-- 🔭 I'm currently working on **agentic AI workflows** powered by LangChain & LangGraph
-- 🌱 I'm constantly leveling up my skills in **RAG pipelines** and **LLM orchestration**
-- 💡 I enjoy building **end-to-end data pipelines** — from raw data to business-ready dashboards
-- 🧠 Deep interest in **predictive modeling**, **time-series forecasting**, and **NLP**
-- 📊 I speak fluent **Power BI**, **Tableau**, and **SQL**
-- ⚡ Fun fact: I turn messy spreadsheets into stories that drive decisions
+- 🔭 Currently building **agentic AI workflows** using LangChain & LangGraph
+- 🌱 Actively developing expertise in **RAG pipelines** and **LLM orchestration**
+- 💡 Experienced in designing **end-to-end data pipelines** — from raw data to business-ready dashboards
+- 🧠 Strong focus on **predictive modeling**, **time-series forecasting**, and **NLP**
+- 📊 Proficient in **Power BI**, **Tableau**, and **advanced SQL analytics**
+- 🎯 Committed to turning complex data into clear, actionable business insights
 
 <br clear="both"/>
 
