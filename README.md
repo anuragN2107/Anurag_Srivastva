@@ -1,31 +1,37 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:6C63FF&height=220&section=header&text=Hi%20There,%20I'm%20Anurag%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,50:8E54E9,100:6C63FF&height=230&section=header&text=Hi%20There,%20I'm%20Anurag%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20%26%20Gen%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/anuragN2107">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+ML+%26+Gen+AI+Engineer;Agentic+AI+%7C+LLMs+%7C+Predictive+Modeling;Power+BI+%2B+Tableau+%7C+SQL+Analytics;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+ML+%26+Gen+AI+Engineer;Agentic+AI+%7C+LLMs+%7C+RAG+Pipelines;Predictive+Modeling+%7C+Time-Series+Forecasting;Power+BI+%2B+Tableau+%7C+Advanced+SQL+Analytics;Turning+Raw+Data+into+Real+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=anuragN2107&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/anuragN2107?label=Followers&style=for-the-badge&color=F75C7E" alt="Followers"/>
+<img src="https://img.shields.io/badge/Location-Buxar%2C%20Bihar%2C%20India-2EC866?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=anuragN2107&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 
 <br>
 
-## 📑 Index
+## 📑 Quick Navigation
 
-- [🚀 About Me](#-about-me)
-- [🛠️ Tech Stack & Tools](#️-tech-stack--tools)
-- [📌 Featured Projects](#-featured-projects)
-- [📊 GitHub Stats](#-github-stats)
-- [🔥 Daily Activity & Streak](#-daily-activity--streak)
-- [🐍 Contribution Snake](#-contribution-snake)
-- [🏆 Trophies](#-trophies)
-- [🤝 Connect With Me](#-connect-with-me)
+<div align="center">
+
+[![About](https://img.shields.io/badge/🚀-About_Me-F75C7E?style=for-the-badge)](#-about-me)
+[![Skills](https://img.shields.io/badge/🛠️-Tech_Stack-6C63FF?style=for-the-badge)](#️-tech-stack--tools)
+[![Projects](https://img.shields.io/badge/📌-Projects-F2C811?style=for-the-badge)](#-featured-projects)
+[![Stats](https://img.shields.io/badge/📊-GitHub_Stats-2EC866?style=for-the-badge)](#-github-stats)
+[![Connect](https://img.shields.io/badge/🤝-Connect-0077B5?style=for-the-badge)](#-connect-with-me)
+
+</div>
 
 <br>
 
@@ -38,37 +44,53 @@ focus:
   - Predictive Modeling & Statistical Analysis
   - Generative AI & Agentic AI Systems
   - Business Intelligence (Power BI / Tableau)
-  - Enterprise SQL Data Warehousing
+  - Enterprise SQL Data Warehousing & Data Engineering
 location: Buxar, Bihar, India
-currently_exploring: LLM Orchestration, RAG Pipelines, AI Agents
-fun_fact: I love turning raw data into decisions that matter!
+currently_exploring: LLM Orchestration, RAG Pipelines, AI Agents, MLOps
+fun_fact: I love turning raw data into decisions that matter! 📈
 ```
 
-<br>
+<img align="right" width="320" src="https://raw.githubusercontent.com/anuragN2107/anuragN2107/output/github-contribution-grid-snake.svg">
+
+- 🔭 I'm currently working on **agentic AI workflows** powered by LangChain & LangGraph
+- 🌱 I'm constantly leveling up my skills in **RAG pipelines** and **LLM orchestration**
+- 💡 I enjoy building **end-to-end data pipelines** — from raw data to business-ready dashboards
+- 🧠 Deep interest in **predictive modeling**, **time-series forecasting**, and **NLP**
+- 📊 I speak fluent **Power BI**, **Tableau**, and **SQL**
+- ⚡ Fun fact: I turn messy spreadsheets into stories that drive decisions
+
+<br clear="both"/>
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-**Languages**
-
+### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
-**Machine Learning & Deep Learning**
+### Databases & Big Data
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
 
+### Machine Learning & Deep Learning
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EB0028?style=for-the-badge&logo=xgboost&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 
-**Generative AI & Agentic AI**
-
+### Generative AI & Agentic AI
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
@@ -76,20 +98,21 @@ fun_fact: I love turning raw data into decisions that matter!
 <img src="https://img.shields.io/badge/RAG%20Pipelines-6C63FF?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20Agents-F75C7E?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-0A66C2?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/>
 
-**Data Visualization & BI**
-
+### Data Visualization & BI
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-**Databases, Tools & Platforms**
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+### Tools & Platforms
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -151,14 +174,6 @@ fun_fact: I love turning raw data into decisions that matter!
 </div>
 
 > 💡 To activate this snake animation, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo — it auto-generates and updates this SVG daily from your contribution graph. Until it's set up, this image may not display.
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anuragN2107&theme=radical&no-frame=true&row=1&column=6" alt="Trophies"/>
-</div>
 
 <br>
 
