@@ -11,7 +11,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=anuragN2107&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/anuragN2107?label=Followers&style=for-the-badge&color=F75C7E" alt="Followers"/>
-<img src="https://img.shields.io/badge/Location-Buxar%2C%20Bihar%2C%20India-2EC866?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br><br>
 
