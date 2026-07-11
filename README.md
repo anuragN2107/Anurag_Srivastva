@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=260&section=header&text=Anurag%20Srivastva&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Data%20Analyst%20%7C%20Power%20BI%20%26%20Tableau%20%7C%20AIML%20Engineer&descAlignY=54&descSize=19&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2ac3de&height=140&section=header&text=Anurag%20Srivastva&fontSize=40&fontColor=1a1b27&fontAlignY=40&desc=Aspiring%20Data%20Analyst%20%7C%20Power%20BI%20%2B%20Tableau%20%7C%20AIML%20Engineer&descAlignY=70&descSize=16&descColor=1a1b27" width="100%"/>
+
+<div align="center">
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Aspiring+Data+Analyst+%7C+Power+BI+%2B+Tableau+Specialist;Turning+Raw+Data+Into+Decisions%2C+One+Dashboard+at+a+Time;Building+Predictive+Models+with+Python+%26+Machine+Learning;GenAI+%7C+LLMs+%7C+Prompt+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2AC3DE&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Data+Analyst+%7C+Power+BI+%2B+Tableau+Specialist;Turning+Raw+Data+Into+Decisions%2C+One+Dashboard+at+a+Time;Building+Predictive+Models+with+Python+%26+Machine+Learning;GenAI+%7C+LLMs+%7C+Prompt+Engineering+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/><br/>
