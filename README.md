@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=280&section=header&text=Anurag%20Srivastva&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Engineer%20%7C%20GenAI%20%7C%20MLOps%20%7C%20Analytics&descAlignY=55&descSize=20&descColor=7aa2f7"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=260&section=header&text=Anurag%20Srivastva&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Data%20Analyst%20%7C%20Power%20BI%20%26%20Tableau%20%7C%20AIML%20Engineer&descAlignY=54&descSize=19&descColor=ffffff" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Data+Science+%26+AI+Professional;Building+Predictive+Models+That+Ship+to+Production;GenAI+%7C+LLMs+%7C+RAG+%7C+Agentic+AI+Systems;Turning+Raw+Data+Into+Decisions+%7C+Power+BI+%2B+Python+%2B+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Aspiring+Data+Analyst+%7C+Power+BI+%2B+Tableau+Specialist;Turning+Raw+Data+Into+Decisions%2C+One+Dashboard+at+a+Time;Building+Predictive+Models+with+Python+%26+Machine+Learning;GenAI+%7C+LLMs+%7C+Prompt+Engineering+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -14,6 +14,13 @@
 [![GitHub followers](https://img.shields.io/github/followers/anuragN2107?style=for-the-badge&color=414868&labelColor=1a1b27&logo=github)](https://github.com/anuragN2107?tab=followers)
 [![Portfolio Status](https://img.shields.io/badge/STATUS-Open_to_Work-9ece6a?style=for-the-badge&labelColor=1a1b27)](https://github.com/anuragN2107)
 [![Location](https://img.shields.io/badge/BASED_IN-Bihar%2C_India-bb9af7?style=for-the-badge&labelColor=1a1b27)](https://github.com/anuragN2107)
+
+<br/>
+
+![Data Analyst](https://img.shields.io/badge/-Data_Analyst-1a1b27?style=for-the-badge&logo=googleanalytics&logoColor=e0af68)
+![Power BI](https://img.shields.io/badge/-Power_BI-1a1b27?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/-Tableau-1a1b27?style=for-the-badge&logo=tableau&logoColor=E97627)
+![AIML Engineer](https://img.shields.io/badge/-AIML_Engineer-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 
 <br/>
 
@@ -51,38 +58,38 @@
 ```python
 class AnuragSrivastva:
     def __init__(self):
-        self.role = "Data Science & AI Professional"
+        self.role = "Aspiring Data Analyst | Power BI & Tableau Specialist | AIML Engineer"
         self.location = "Buxar, Bihar, India"
         self.education = {
             "executive_pg": "Executive PG in Data Science & AI — IIT Roorkee (in association with Intellipaat)",
             "bachelors": "B.E. in Electrical & Electronics Engineering — Sathyabama University, Chennai"
         }
         self.focus_areas = [
+            "Data Analysis & Business Intelligence (Power BI + Tableau)",
             "Predictive Modeling & Statistical Forecasting",
-            "Generative AI & LLM-Powered Applications",
-            "Business Intelligence & Advanced Analytics",
-            "MLOps & Production ML Pipelines"
+            "Machine Learning & AIML Engineering",
+            "Generative AI & LLM-Powered Applications"
         ]
         self.philosophy = "Data without a decision is just noise."
 
-    def currently_building(self):
-        return "AI systems that turn ambiguous business questions into measurable outcomes"
+    def actively_seeking(self):
+        return "Roles in Data Analysis, Power BI Development, Tableau Visualization, and AIML Engineering"
 
     def engineering_mindset(self):
         return [
             "Start with the business problem, not the algorithm",
-            "A model that isn't monitored is a model that's already broken",
-            "Dashboards should answer questions before they're asked"
+            "A dashboard should answer questions before they're asked",
+            "A model that isn't validated is just a guess with extra steps"
         ]
 
 me = AnuragSrivastva()
 ```
 
-**🎯 What I do:** I bridge the gap between raw, messy data and confident business decisions — designing end-to-end pipelines that move from SQL warehouses and Excel workbooks, through statistical and machine learning models, into interactive Power BI dashboards and GenAI-powered applications that non-technical stakeholders actually use.
+**🎯 What I'm building toward:** I'm actively seeking opportunities as a **Data Analyst**, **Power BI Developer**, **Tableau Developer**, and **AIML Engineer** — roles where I can turn raw, messy data into dashboards, forecasts, and models that drive real business decisions.
 
-**🧠 Engineering philosophy:** Every analysis should be reproducible, every model should be explainable, and every dashboard should drive an action — not just decorate a report.
+**🧠 My approach:** Every analysis should be reproducible, every dashboard should drive an action, and every model should be explainable to the people who rely on it.
 
-**📚 Currently sharpening:** Prompt engineering patterns for production LLM apps, Retrieval-Augmented Generation architectures, and MLOps practices for reliable model deployment.
+**📚 Currently sharpening:** Advanced DAX and Tableau calculated fields for BI storytelling, plus prompt engineering and RAG architectures for GenAI applications.
 
 <br/>
 
